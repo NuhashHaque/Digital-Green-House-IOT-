@@ -50,9 +50,9 @@ small PCB with an 8-bit SOIC-14 packaged IC. This IC measures and processes the 
 stored calibration coefficients, does analog to digital conversion and spits out a digital signal with the
 temperature and humidity.
 
-![](images/filename dht.jpg.png)
+![](images/dht.jpg.png)
 
-Fig: DHT-22 pinout
+      Fig: DHT-22 pinout
 
 ## Soil Moisture Sensor :
 
@@ -70,8 +70,9 @@ Moisture Sensor is used to measure the loss of moisture over time due to evapora
 uptake,evaluate optimum soil moisture contents for various species of plants,monitor soil moisture
 content to control irrigation in greenhouses and enhance bottle biology experiments.
 
+![](images/moisture.jpg)
 
-Fig:Soil Moisture Sensor
+       Fig:Soil Moisture Sensor
 
 # Components Required:
 
