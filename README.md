@@ -25,6 +25,7 @@ moisture crosses the soil moisture set point.
 In this project we have used the sensors below:
 
 1.DHT- 22
+
 2.Soil Moisture Sensor
 
 ## DHT-22:
@@ -95,7 +96,7 @@ Fig:Soil Moisture Sensor
 10.Wires
 
 
-Discussion:
+# Discussion:
 
 In this project we have achieved to delevop a system to automate a green house.It was very difficult to
 work with many sensors and peripherals.We have faced problem with wiring.We had to use firm wiring
