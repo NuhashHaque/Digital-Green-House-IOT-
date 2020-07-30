@@ -50,7 +50,7 @@ small PCB with an 8-bit SOIC-14 packaged IC. This IC measures and processes the 
 stored calibration coefficients, does analog to digital conversion and spits out a digital signal with the
 temperature and humidity.
 
-![](image/filename dht.jpg.png)
+![](images/filename dht.jpg.png)
 
 Fig: DHT-22 pinout
 
